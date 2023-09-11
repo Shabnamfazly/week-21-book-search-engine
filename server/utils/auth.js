@@ -4,7 +4,7 @@ const jwt = require('jsonwebtoken');
 const secret = 'mysecretsshhhhh';
 const expiration = '2h';
 
-const {GraphQLError}=require(graphql)
+const {GraphQLError}=require('graphql')
 
 module.exports = {
   // function for our authenticated routes
