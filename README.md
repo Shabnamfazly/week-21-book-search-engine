@@ -10,6 +10,13 @@ Save books to your account for later reference.
 View and manage your saved books from the "My Saved Books" section.
 Log out when you're done.
 
+## KEY FEATURES
+Search for books using the Google Books API.
+User authentication with signup and login options.
+Save books to your account for future reference.
+View and remove saved books.
+User-friendly interface with a responsive design.
+
 ## SET UP
 To set up the project, follow these steps:
 
